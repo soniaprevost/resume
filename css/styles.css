@@ -1,0 +1,50 @@
+body {
+  overflow-x: hidden;
+  margin: 0;
+  background-color: #fff9f0;
+}
+
+a, a:hover, a:focus {
+  color: #c94143;
+  text-decoration: none;
+  border-bottom: 1px solid;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 3em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+.subtitle {
+  font-size: 1.5rem;
+  font-weight: lighter;
+  margin-top: -0.5em;
+}
+
+section {
+  margin-bottom: 3em;
+}
+
+ul li {
+  line-height: 1.5em;
+  margin: 0.6em 0;
+}
+
+.experience {
+  margin: 1em 0;
+}
+
+.year {
+  font-weight: lighter;
+  font-size: 1.5em;
+}
+
+.company {
+  font-weight: lighter;
+  font-size: 1.2em;
+  margin-top: -0.5em;
+}
