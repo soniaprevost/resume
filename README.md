@@ -6,4 +6,4 @@ Une des personnes avec qui j'étais en contact n'arrivait pas à lire mon CV, ca
 Plutôt que d'en faire une version word, j'ai décidé d'en faire la version Html que voici.
 Cette version est donc complètement accessible.
 
-Ce petit bout d'html/css est complétement ré-utilisable. Vous pouvez donc l'utiliser comme bon vous semble. (Mais si vous pouviez me tenir au courant, ce serait super :)
+Ce petit bout d'html/css est complétement ré-utilisable. Vous pouvez donc l'utiliser comme bon vous semble. N'hésitez pas à me tenir au courant si vous l'utilisez, ce serait super :)
